@@ -1,0 +1,5 @@
+('05/08/2023', 'DD/MM/YYYY context: registration deadline or due date')
+('07/09/2023', 'DD/MM/YYYY context: registration deadline or due date')
+('03/13/2024', 'MM/DD/YYYY')
+('08/03/2024', 'MM/DD/YYYY context: event or report date')
+('05/06/2023', 'Ambiguous')
